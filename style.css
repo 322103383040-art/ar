@@ -698,4 +698,17 @@ MOBILE
     letter-spacing: 2px;
     opacity: 0.6; 
 }
+   .close-enquiry {
+    position: absolute;
+    color: #111;
+    top: 12px;
+    left: 200px;
+
+    background: none;
+    border: none;
+
+    font-size: 30px;
+
+    cursor: pointer;
+}
 }
